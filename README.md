@@ -1,4 +1,4 @@
-# awesome-predictive-maintenance
+# Awesome Predictive Maintenance
 Curated list of predictive maintenance research and repositories.
 
 # Predictive Maintenance
