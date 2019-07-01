@@ -22,6 +22,14 @@ To be added soon.
 ### Papers
 
 + **IoT and PdM:** Arindam Chaudhuri. "Predictive Maintenance for Industrial IoT of Vehicle Fleets using Hierarchical Modified Fuzzy Support Vector Machine" (2018). [[Paper]](https://arxiv.org/abs/1806.09612)
++ **Challenges_and_Reliability_of_Predictive_Maintenance** Vincent F. A. Meyer [[Paper]](https://www.researchgate.net/publication/331951459_Challenges_and_Reliability_of_Predictive_Maintenance)
++ **Cost-Sensitive Learning for Predictive Maintenance** Stephan Spiegel, Fabian Mueller, Dorothea Weismann, John Bird [[Paper]](https://arxiv.org/abs/1809.10979)
++ **Dataset  Rare Event Classification in Multivariate Time Series** Chitta Ranjan, Mahendranath Reddy, Markku Mustonen, Kamran Paynabar, Karim Pourak [[Paper]](https://arxiv.org/abs/1809.10717)
++ **DEEP LEARNING FOR ANOMALY DETECTION A SURVEY** Raghavendra Chalapathy, Sanjay Chawla [[Paper]](https://arxiv.org/abs/1901.03407)
++ **PredictiveMaintenance-Faultclassification** Nagdev Amruthnath [[Paper]](https://www.researchgate.net/publication/331385865_Predictive_Maintenance-Fault_classification)
++ **Predictivemaintenance-FaultDetection** Nagdev Amruthnath [[Paper]](https://www.researchgate.net/publication/331385868_Predictive_maintenance-Fault_Detection)
++ **Real Time Anomaly Detection System ADSaS** Sooyeon Lee, Huy Kang Kim [[Paper]](https://arxiv.org/abs/1811.12634)
++ **Study on Predictive Maintenance Strategy** Yihai HeYihai HeChangchao GuChangchao GuZhaoxiang ChenZhaoxiang ChenXiao HanXiao Han [[Paper]](https://www.researchgate.net/publication/318113052_Integrated_predictive_maintenance_strategy_for_manufacturing_systems_by_combining_quality_control_and_mission_reliability_analysis)
 
 #### Other Papers
 
