@@ -21,7 +21,7 @@ To be added soon.
 
 ### Papers
 
-+ **IoT and PdM:** Arindam Chaudhuri. "Predictive Maintenance for Industrial IoT of Vehicle Fleets using Hierarchical Modified Fuzzy Support Vector Machine" (2018). [[pdf]](https://arxiv.org/ftp/arxiv/papers/1806/1806.09612.pdf)
++ **IoT and PdM:** Arindam Chaudhuri. "Predictive Maintenance for Industrial IoT of Vehicle Fleets using Hierarchical Modified Fuzzy Support Vector Machine" (2018). [[Paper]](https://arxiv.org/abs/1806.09612)
 
 #### Other Papers
 
