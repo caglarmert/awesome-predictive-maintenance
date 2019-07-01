@@ -3,7 +3,8 @@ Curated list of predictive maintenance research and repositories.
 
 # Predictive Maintenance
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Not yet integrated with Awesome List, will do when I finalize! [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+I highly recommend checking awesome list at github for any topic you are interested.
 
 A curated list of resources including papers, comparitive results on standard datasets and relevant links related to predictive maintenance.  
 
