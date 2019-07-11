@@ -1,6 +1,14 @@
 # Awesome Predictive Maintenance
 Curated list of predictive maintenance research and repositories.
 
+# Anomaly Detection
+Road to predictive maintenance
+
++ **Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding** Kyle Hundman, Valentino Constantinou, Christopher Laporte, Ian Colwell, Tom Soderstrom [[paper]](https://arxiv.org/abs/1802.04431) [[github]](https://github.com/khundman/telemanom)
++ Anomaly Detection Resources [[github ]](https://github.com/yzhao062/anomaly-detection-resources)
++ Siren Platform + Kibana Alert & Report App for Elasticsearch [[github]](https://github.com/sirensolutions/sentinl)
+
+
 # Predictive Maintenance
 
 Not yet integrated with Awesome List, will do when I finalize this repo
@@ -35,17 +43,13 @@ To be added soon.
 + **Predictivemaintenance-FaultDetection** Nagdev Amruthnath [[Paper]](https://www.researchgate.net/publication/331385868_Predictive_maintenance-Fault_Detection)
 + **Real Time Anomaly Detection System ADSaS** Sooyeon Lee, Huy Kang Kim [[Paper]](https://arxiv.org/abs/1811.12634)
 + **Study on Predictive Maintenance Strategy** Yihai HeYihai HeChangchao GuChangchao GuZhaoxiang ChenZhaoxiang ChenXiao HanXiao Han [[Paper]](https://www.researchgate.net/publication/318113052_Integrated_predictive_maintenance_strategy_for_manufacturing_systems_by_combining_quality_control_and_mission_reliability_analysis)
-+ **Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding** Kyle Hundman, Valentino Constantinou, Christopher Laporte, Ian Colwell, Tom Soderstrom [[paper]](https://arxiv.org/abs/1802.04431) [[github]](https://github.com/khundman/telemanom)
-+ **Paper_name** Auother_name [[paper]](Paper_link) [[github]](github_link)
 
 #### Github Resources
 
 + [[ARAKAT]](https://github.com/arakat-community/arakat)
-+ [[Anomaly Detection Resources]](https://github.com/yzhao062/anomaly-detection-resources)
-+ [[Siren Platform + Kibana Alert & Report App for Elasticsearch]](https://github.com/sirensolutions/sentinl)
 + [[Predictive_Maintenance_using_Machine-Learning_Microsoft_Casestudy]](https://github.com/ashishpatel26/Predictive_Maintenance_using_Machine-Learning_Microsoft_Casestudy)
 + [[Predictive-Maintenance-using-LSTM]](https://github.com/umbertogriffo/Predictive-Maintenance-using-LSTM)
-+ [[NAME]](link)
+
 ### Datasets
 + oil Moisture Active Passive satellite (SMAP) and the Curiosity Rover on Mars (MSL) [[Dataset]](https://s3-us-west-2.amazonaws.com/telemanom/data.zip)
 + Dataset_Description [[Dataset]](dataset_link)
