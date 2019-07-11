@@ -9,7 +9,7 @@ Not yet integrated with Awesome List, will do when I finalize this repo
 
 I highly recommend checking awesome list at github for any topic you are interested.
 
-A curated list of resources including papers, comparitive results on standard datasets and relevant links related to predictive maintenance.  
+A curated list of resources including papers, comparitive results on datasets and relevant links related to predictive maintenance.  
 
 ## Contributing
 
