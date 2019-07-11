@@ -40,12 +40,12 @@ To be added soon.
 
 #### Github Resources
 
-+ [[ARAKAT]] (https://github.com/arakat-community/arakat)
-+ [[Anomaly Detection Resources]] (https://github.com/yzhao062/anomaly-detection-resources)
-+ [[Siren Platform + Kibana Alert & Report App for Elasticsearch]] (https://github.com/sirensolutions/sentinl)
-+ [[Predictive_Maintenance_using_Machine-Learning_Microsoft_Casestudy]] (https://github.com/ashishpatel26/Predictive_Maintenance_using_Machine-Learning_Microsoft_Casestudy)
-+ [[Predictive-Maintenance-using-LSTM]] (https://github.com/umbertogriffo/Predictive-Maintenance-using-LSTM)
-+ [[NAME]] (link)
++ [[ARAKAT]](https://github.com/arakat-community/arakat)
++ [[Anomaly Detection Resources]](https://github.com/yzhao062/anomaly-detection-resources)
++ [[Siren Platform + Kibana Alert & Report App for Elasticsearch]](https://github.com/sirensolutions/sentinl)
++ [[Predictive_Maintenance_using_Machine-Learning_Microsoft_Casestudy]](https://github.com/ashishpatel26/Predictive_Maintenance_using_Machine-Learning_Microsoft_Casestudy)
++ [[Predictive-Maintenance-using-LSTM]](https://github.com/umbertogriffo/Predictive-Maintenance-using-LSTM)
++ [[NAME]](link)
 ### Datasets
 + oil Moisture Active Passive satellite (SMAP) and the Curiosity Rover on Mars (MSL) [[Dataset]](https://s3-us-west-2.amazonaws.com/telemanom/data.zip)
 + Dataset_Description [[Dataset]](dataset_link)
