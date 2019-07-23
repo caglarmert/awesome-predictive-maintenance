@@ -21,6 +21,8 @@ A curated list of resources including papers, comparitive results on datasets an
 
 ## Contributing
 
+For contributing to this list (or any awesome list) please follow the following contribution guide:
+
 <a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
 
 ## Table of Contents
