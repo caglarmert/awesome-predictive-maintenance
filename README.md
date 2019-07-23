@@ -21,7 +21,7 @@ A curated list of resources including papers, comparitive results on datasets an
 
 ## Contributing
 
-To be added soon.
+<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
 
 ## Table of Contents
 + [Papers](#Papers)
