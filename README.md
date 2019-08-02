@@ -34,6 +34,8 @@ For contributing to this list (or any awesome list) please follow the following 
 
 ## Predictive Maintenance (PdM)
 
+[Predictive Maintenance Explained](https://www.reliableplant.com/Read/12495/preventive-predictive-maintenance)
+
 ### Papers
 
 + **IoT and PdM:** Arindam Chaudhuri. "Predictive Maintenance for Industrial IoT of Vehicle Fleets using Hierarchical Modified Fuzzy Support Vector Machine" (2018). [[Paper]](https://arxiv.org/abs/1806.09612)
